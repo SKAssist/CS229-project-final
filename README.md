@@ -1,4 +1,4 @@
-# CS229-project-final
+# Fine-Tuning MusicGen for Composer Style Transfer: Leveraging Style Embeddings for Conditioned Music Generation
 
 Generating music that convincingly mimics the style of a specific composer presents a unique challenge in machine learning. While transformer-based models like MusicGen can generate coherent music, they often struggle to capture the subtle stylistic traits that define individual classical composers. Achieving accurate composer style transfer was particularly interesting to both of us, as we are a team composed of a classical pianist and a classical vocalist.
 
